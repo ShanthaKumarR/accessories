@@ -1,13 +1,6 @@
 import cv2
-
-
-
-
-
 path = 'frame/'
 
-   
-   
 def dif_frame():
     capture = cv2.VideoCapture('cod_anne.mp4')
     i = 1
